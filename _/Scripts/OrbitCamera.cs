@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace StylizedGrassDemo
+namespace URP.Grass.Present
 {
     public class OrbitCamera : MonoBehaviour
     {

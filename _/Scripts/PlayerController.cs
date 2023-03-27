@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace StylizedGrassDemo
+namespace URP.Grass.Present
 {
     public class PlayerController : MonoBehaviour
     {
